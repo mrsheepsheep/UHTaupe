@@ -1,0 +1,8 @@
+name: UHTaupe
+author: MrSheepSheep
+main: fr.mrsheepsheep.uhtaupe.UHTaupe
+depend: [UHPlugin]
+version: 1.0
+commands:
+  reveal:
+  tm:
