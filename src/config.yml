@@ -1,1 +1,5 @@
 episode: 2
+autoreveal: 5
+kit:
+- iron_sword 0 1
+- golden_apple 1 1
